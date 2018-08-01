@@ -1,0 +1,11 @@
+C:\Users\tsgeri\source\repos\GesWin\GesWin\bin\Debug\GesWin.exe.config
+C:\Users\tsgeri\source\repos\GesWin\GesWin\bin\Debug\GesWin.exe
+C:\Users\tsgeri\source\repos\GesWin\GesWin\bin\Debug\GesWin.pdb
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.csprojAssemblyReference.cache
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.Form2.resources
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.MDI.resources
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.Properties.Resources.resources
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.csproj.GenerateResource.cache
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.csproj.CoreCompileInputs.cache
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.exe
+C:\Users\tsgeri\source\repos\GesWin\GesWin\obj\Debug\GesWin.pdb
